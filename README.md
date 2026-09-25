@@ -51,5 +51,4 @@ Course
 CSE260- Digital Logic Design
 
 Project Type: Hardware / Digital Circuit Project
-Compose
-Write to Progna Paramita Ghosh
+
