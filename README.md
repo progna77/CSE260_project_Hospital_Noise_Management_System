@@ -32,9 +32,8 @@ Hardware Components
 * Basic logic gates
 * LEDs
 * 1-digit 7-segment display
-* Warning LED
 * Breadboard
-* Connecting wires
+* Jumper wires
 * Power supply
 
 Project Files
@@ -43,7 +42,7 @@ Additional project documentation is included in this repository, including:
 
 * Truth Tables
 * Boolean Equations
-*  Block Diagram
+* Block Diagram
   
 
 Course
